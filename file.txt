@@ -1,1 +1,2 @@
 It can be anything
+This is the second line
